@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
+
+#ContentExperience {
+    .container {
+        .row {
+            .text-center {
+                p {
+
+                }
+                h1 {
+                    font-family: 'Marck Script', cursive;
+	            background: linear-gradient(to right, rgb(251, 185, 99) 0%, #9b2001 100%);
+	            -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                font-size: 100px;
+                }
+                label {
+                    color: grey;
+                }
+                h4 {
+                    margin-top: 20px;
+                    color: grey;
+                }
+
+            }
+        }
+    }
+}
